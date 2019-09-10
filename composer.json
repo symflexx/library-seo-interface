@@ -1,0 +1,15 @@
+{
+  "name": "symflex/library-seo-interface",
+  "type": "library",
+  "license": "MIT",
+  "description": "Seo interface",
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.2.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Symflex\\Library\\LanguageInterface\\": "src/"
+    }
+  }
+}
